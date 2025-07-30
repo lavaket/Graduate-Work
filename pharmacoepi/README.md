@@ -1,4 +1,4 @@
-# PharmacoEpi Example Project
+# PharmacoEpi Simulation Project
 
 This project demonstrates basic pharmacoepidemiology analyses in Python.
 It includes utilities for generating synthetic cohort data, estimating
